@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon src/bin/www --exec \"babel-node\"",
     "lint": "eslint --fix --ext .js src"
   },
   "author": "",
