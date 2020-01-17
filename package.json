@@ -16,6 +16,7 @@
     "@babel/plugin-transform-runtime": "^7.7.6",
     "@babel/preset-env": "^7.7.7",
     "@babel/runtime": "^7.7.7",
+    "babel-plugin-module-resolver": "^4.0.0",
     "express": "^4.17.1",
     "ioredis": "^4.14.1"
   },
